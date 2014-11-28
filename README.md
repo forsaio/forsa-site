@@ -1,9 +1,9 @@
 
 
 
-# Forsa Consulting website
+# Forsa Consulting Website: http://forsa.io
 
-# Theme: Jekyll Incorporated
+## *Theme: Jekyll Incorporated*
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
 ## Installation & Usage
