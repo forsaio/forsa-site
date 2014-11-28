@@ -1,0 +1,22 @@
+/* CONFIGURATION */
+
+/* Bodytext font */
+$font: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* Font for headings */
+$fontheadings: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* Text colors */
+$text: #666666;
+$textmuted: #999999;
+$accent: #0078ce;
+
+
+/* IMPORT CSS FILES */
+@import "bootstrap";
+@import "base";
+@import "nav";
+@import "article";
+@import "icons";
+@import "syntax";
+@import "responsive";

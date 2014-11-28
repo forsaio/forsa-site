@@ -1,0 +1,62 @@
+---
+layout: base
+permalink: /field_notes/
+title: FIELD + NOTES
+description: "Journal from the field"
+---
+<article class="container">
+{% for post in paginator.posts %}
+  {% unless post.draft %}
+    <section class="index">
+        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+        <div>
+            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+            <div class="meta">
+                Written By <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    {% endunless %}
+    {% endfor %}
+    <section class="pagination" style="text-align:center">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn btn-outline">‹ Newer</a>
+        {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        {% endif %}
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+      {% endif %}
+    </section>
+</article>
+
+<br></br>
+<br></br>
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{clear:center; font:14px Raleway,Arial,sans-serif; width: 400px; text-align: center;}
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<center>
+<div id="mc_embed_signup" align="center">
+<form action="//forsa.us9.list-manage.com/subscribe/post?u=a0de69a4d4f16d145bcda9660&amp;id=6763623591" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" align="center">
+    <label for="mce-EMAIL">GET EMAIL UPDATES FROM FORSA</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address"  required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" align="center"><input type="text" name="b_a0de69a4d4f16d145bcda9660_6763623591" tabindex="-1" value=""></div>
+    <div class="clear" align="center"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+</center>
+<!--End mc_embed_signup-->
+
