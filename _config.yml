@@ -11,11 +11,15 @@ inc:
   facebook:     forsa.io
   twitter:      forsaconsulting
   #gplus:        '101183822199340201470'
+  
+  # about information
   about_link:   /about
+  # about_cover: /image/forsa_explanation.png
   
   # services (SERVICES) Information
   services_link: /services
   tagline:      ""
+  # services_cover: /image/IMG_7404.png
 
   # Contact info
   contact_link: /contact
