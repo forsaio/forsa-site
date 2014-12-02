@@ -1,24 +1,31 @@
 ---
 layout: base
 ---
-{% if page.cover_image %}
-<div class="article-cover">
-    <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
-    </div>
+
+
+{% if page.title == 'SERVICES' %}
+<div class="intro-header" style="background-image:url(/images/IMG_7404.png);">
 </div>
+<br></br>
 {% endif %}
-<article>
 
-    <div class="container">
-        <!-- <header> -->
-            <!-- <h1 class="title">{{ page.title }}</h1> -->
-            <!-- {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %} -->
-        <!-- </header> -->
+{% if page.title == 'ABOUT' %}
+<br></br>
+<center><img src="/images/forsa_explanation.png";></center>
+{% endif %}
 
-        <section>
-            {{ content }}
-        </section>
 
-    </div>
-</article>
+ 
+
+<div class="container">
+    <!-- <header> -->
+        <!-- <h1 class="title">{{ page.title }}</h1> -->
+        <!-- {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %} -->
+    <!-- </header> -->
+
+    <section>
+        {{ content }}
+    </section>
+
+</div>
+

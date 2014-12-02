@@ -1,12 +1,9 @@
 ---
 layout: page
+title: SERVICES
 ---
 
-<figure>
-  <img src="/images/sms_kenya.png">
-</figure>
 
-<br>
 
 ##STRATEGY
 
@@ -18,9 +15,9 @@ Forsa consultants embed within organizations and communities in order to underst
 
 ---
 
-<figure>
-  <img src="/images/notebook_bg_wide.jpg">
-</figure>
+<!-- ![design](/images/notebook_bg_wide.jpg) -->
+<img src="/images/notebook_bg_wide.jpg">
+
 <br>
 
 ##DESIGN
@@ -34,9 +31,9 @@ Forsa consultants have experience designing and managing the use of cutting edge
 
 ---  
 
-<figure>
-  <img src="/images/elliott-hunter-hnec_tint.png">
-</figure>
+
+<center><img src="/images/elliott-hunter-hnec_tint.png"></center>
+
 
 <br>
 

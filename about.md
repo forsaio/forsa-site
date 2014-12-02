@@ -3,9 +3,7 @@ layout: page
 title: ABOUT
 permalink: /about/
 ---
-<!-- <div class="page-cover" style="background-image:url(/images/forsa_explanation.png);"></div> -->
 
-<img src="/images/forsa_explanation.png">
 
 ##ABOUT
 
