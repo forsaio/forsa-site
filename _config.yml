@@ -132,3 +132,11 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+
+gems:
+-  jekyll
+-  kramdown
+-  rake
+-  sass
+-  uglifier
+-  github-pages
