@@ -140,3 +140,5 @@ gems:
 -  sass
 -  uglifier
 -  github-pages
+-  jemoji
+-  jekyll-mentions
