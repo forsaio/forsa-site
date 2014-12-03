@@ -7,7 +7,7 @@ inc:
   
   # Company information
   company:      Forsa Consulting
-  url:          /forsa-site
+#  url:          /forsa-site
   facebook:     forsa.io
   twitter:      forsaconsulting
   #gplus:        '101183822199340201470'
@@ -49,7 +49,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         /forsa-site
+# url:         /forsa-site
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -79,7 +79,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /
+baseurl:     /forsa-site
 lsi:         false
 
 
