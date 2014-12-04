@@ -2,6 +2,7 @@
 layout: page
 title: ABOUT
 permalink: /about/
+cover_image: forsa_explanation.jpg
 ---
 
 

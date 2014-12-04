@@ -100,6 +100,7 @@ inc:
 {% endhighlight %}
 
 **Zoomable images**
+
 <div class="full zoomable"><img src="/images/incorporated.jpg"></div>
 
 **Awesome quotes**

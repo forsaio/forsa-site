@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SERVICES
+cover_image: IMG_7404.png
 ---
 
 
