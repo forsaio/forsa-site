@@ -91,7 +91,7 @@ a {
 .blog-cover {
     @extend .article-cover;
     height: 420px;
-    background-color:#111;
+    background-color:#ffffff;
     background-size:cover;
     background-position:center center;
     z-index:1;
@@ -103,7 +103,7 @@ a {
         right: 0;
         top: 0;
         bottom:0;
-        background-color:rgba(0,0,0,0.4);
+        background-color:rgba(0,0,0,0);
         background-image: linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
         background-image: -o-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
         background-image: -moz-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);

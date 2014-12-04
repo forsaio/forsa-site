@@ -1,9 +1,9 @@
 inc:
   # Site Information
-  title:        "FORSA"
-  subtitle:     "DESIGN+DELIVERY"
+  title:        ""
+#  subtitle:     ""
   cover_image:  map-image.jpg
-#  logo:         logo3.png
+  logo:         logo3.png
   
   # Company information
   company:      Forsa Consulting
