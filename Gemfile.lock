@@ -147,6 +147,8 @@ DEPENDENCIES
   github-pages-health-check
   jekyll
   jekyll-assets
+  jekyll-mentions
+  jemoji
   kramdown
   maruku
   rake

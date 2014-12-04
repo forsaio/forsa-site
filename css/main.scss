@@ -1,3 +1,6 @@
+---
+---
+
 /* CONFIGURATION */
 
 /* Bodytext font */
@@ -11,12 +14,15 @@ $text: #666666;
 $textmuted: #999999;
 $accent: #0078ce;
 
-
+// Import partials from `sass_dir` (defaults to `_sass`)
 /* IMPORT CSS FILES */
-@import "bootstrap";
-@import "base";
-@import "nav";
-@import "article";
-@import "icons";
-@import "syntax";
-@import "responsive";
+@import
+	"animate",
+	"article",
+	"base",
+	"bootstrap",
+	"icons",
+	"nav",
+	"responsive",
+	"syntax"
+;

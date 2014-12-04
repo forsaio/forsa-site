@@ -79,7 +79,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /forsa-site
+baseurl:     /
 lsi:         false
 
 
@@ -112,26 +112,27 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: style
 
+
 redcloth:
   hard_breaks: true
 
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
-assets:
+# assets:
 
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: none
-  cache: false
-  gzip: [ text/css, application/javascript ]
-  debug: false
+#   dirname: assets
+#   baseurl: /assets/
+#   sources:
+#     - _assets/javascripts
+#     - _assets/stylesheets
+#     - _assets/images
+#   js_compressor: uglifier
+#   css_compressor: sass
+#   cachebust: none
+#   cache: false
+#   gzip: [ text/css, application/javascript ]
+#   debug: false
 
 gems:
 -  jekyll
