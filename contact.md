@@ -4,8 +4,10 @@ title: CONTACT
 permalink: /contact/
 ---
 
+<br>
 
 ##CONTACT
+
 Thank you for your interest in Forsa. We look forward to hearing from old friends and new partners and will do our very best to respond to any inquiries as soon as possible. 
 
 For **general inquiries** regarding potential projects engagements, partnership opportunities, or service delivery please email us at **<info@forsa.io>**.
@@ -19,7 +21,7 @@ At Forsa we’re a fast growing firm, and are always looking for talented profes
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{clear:center; font:14px Raleway,Arial,sans-serif; width: 400px; text-align: center;}
+    #mc_embed_signup{clear:center; font:14px Raleway,Arial,sans-serif; max-width: 100%; text-align: center;}
     /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>

@@ -15,7 +15,7 @@ Forsa, based in the US and Kenya, uses a combination of community-rooted qualita
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{clear:center; font:14px Raleway,Arial,sans-serif; width: 400px; text-align: center;}
+    #mc_embed_signup{clear:center; font:14px Raleway,Arial,sans-serif; max-width: 100%; text-align: center;}
     /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>

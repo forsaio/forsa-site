@@ -1,7 +1,7 @@
 body {
     margin:0;
     border:0;
-    padding:80px 0 0;
+    padding:40px 0 0;
     font-family:$font;
     color:$text;
     -webkit-font-smoothing:antialiased;
@@ -48,7 +48,7 @@ a {
 }
 
 .article-cover {
-    max-width: none;
+    max-width: 100%;
     margin-top: 0;
     position: relative;
     max-height:460px;
@@ -117,7 +117,7 @@ a {
         	color-stop(0, rgba(0,0,0,0.15)),
         	color-stop(1, rgba(0,0,0,0))
         );
-        padding: 100px 0;
+        padding: 120px 0;
         z-index:10;
 
         a:last-child {

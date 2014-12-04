@@ -82,22 +82,49 @@
             font-size:1em;
         }
     }
+
+
+.site-nav {
+    top:20px;
+    background:#fff;
+    height:40px;
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    transition:all 0.35s ease;
+    z-index:100;
+    
+    nav {
+        padding:5px 30px;
+        float:right;
+        height:40px;
+        display:table-cell;
+    }
+    
+    #navigation {
+        padding-right:0;
+        
+        > a, .dropdown-toggle  {
+            color:#666666;
+            border:0;
+            font-weight:600;
+            font-size:10px;
+            display:inline-block;
+        }
+    }
+
+
+
+    }
     
     .site-nav .tagline span {
         display:none;
     }
     
-    .site-nav {
-        #navigation {
-            a {
-                display:none;
-            }
-            
-            .brand {
-                display:inline-block;
-            } 
-        }
-    }
+
     
     .site-footer {
         margin-top:0;
