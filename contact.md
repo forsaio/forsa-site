@@ -3,8 +3,9 @@ layout: page
 title: CONTACT
 permalink: /contact/
 ---
-
 <br><br>
+<center><img src="/images/forsa_full_logo.jpg"></center>
+
 
 ##CONTACT
 
