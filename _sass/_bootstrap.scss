@@ -311,10 +311,10 @@ hr {
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #999999 !important;
   }
   .label {
-    border: 1px solid #000;
+    border: 1px solid #999999;
   }
   .table {
     border-collapse: collapse !important;
@@ -1151,13 +1151,13 @@ textarea.input-lg {
 }
 */
 .btn:focus {
-  outline: thin dotted #333;
+  outline: thin dotted #999999;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
 .btn:hover,
 .btn:focus {
-  color: #333333;
+  color: #666666;
   text-decoration: none;
 }
 .btn:active,
@@ -1178,16 +1178,16 @@ fieldset[disabled] .btn {
   box-shadow: none;
 }
 .btn-default {
-  color: #333333;
+  color: #999999;
   background-color: #ffffff;
-  border-color: #cccccc;
+  border-color: #999999;
 }
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
-  color: #333333;
+  color: #999999;
   background-color: #ebebeb;
   border-color: #adadad;
 }
