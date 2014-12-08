@@ -2,6 +2,7 @@
 layout: post
 title: OPEN SOURCE ELECTIONS
 subtitle: ""
+published: false
 cover_image: sms_kenya.png
 
 excerpt: "Momentum is growing for an Open Source Elections Management System.  The time has come."
