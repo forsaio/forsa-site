@@ -4,7 +4,7 @@ title: CONTACT
 permalink: /contact/
 ---
 <br><br>
-<center><img src="/images/forsa_full_logo.jpg"></center>
+<center><img src="/images/forsa_full_logo.png"></center>
 
 
 ##CONTACT
