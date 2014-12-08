@@ -2,9 +2,10 @@
 layout: page
 title: CONTACT
 permalink: /contact/
+cover_image: forsa_full_logo.jpg
 ---
 <br><br>
-<center><img src="/images/forsa_full_logo.png"></center>
+<!-- <center><img src="/images/forsa_full_logo.jpg"></center> -->
 
 
 ##CONTACT
