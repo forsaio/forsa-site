@@ -10,8 +10,7 @@ cover_image: ink_finger.jpg
 
 Forsa builds innovative solutions to complex problems around the world.  We pair technology and big data analytics with community centered design processes and agile management tools to help governments, NGOs, and businesses effectively engage with their constituents.
 
-At Forsa, we’re passionate about doing things better.  We believe that services designed using inclusive processes and agile management can help organizations better and more meaningfully engage with their constituents, resulting in smarter and more effective services. We bring experience building and managing a number of national level civil engagement tools across the globe, as well as 
-designing and implementing services in some of the world’s most complex and fragile environments. We’re working with clients around the world to understand their challenges and design impactful solutions.
+At Forsa, we’re passionate about doing things better.  We believe that services designed using inclusive processes and agile management systems can help organizations better and more meaningfully engage with their constituents, resulting in smarter and more effective services. We bring experience building and managing a number of national level civil engagement tools across the globe, as well as designing and implementing services in some of the world’s most complex and fragile environments. We’re working with clients around the world to understand their challenges and design impactful solutions.
 
 ---
 
