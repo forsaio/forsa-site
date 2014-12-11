@@ -2,15 +2,16 @@
 layout: page
 title: ABOUT
 permalink: /about/
-cover_image: forsa_explanation.jpg
+cover_image: ink_finger.jpg
 ---
 
 
 ##ABOUT
 
-Forsa is dedicated to providing high quality solutions to complex problems around the world.  We approach projects from an *agile design process*, using a combination of *community-rooted qualitative research* and high-level *data analysis* to deliver results.
+Forsa builds innovative solutions to complex problems around the world.  We pair technology and big data analytics with community centered design processes and agile management tools to help governments, NGOs, and businesses effectively engage with their constituents.
 
-Forsa, based in the US and Kenya, uses a combination of community-rooted qualitative research and high-level data analysis to design and deliver effective solutions. Forsa specializes in in-country user experience (UX) support, working closely with community members to deliver applications that reflect specific contexts. Elliott Wilkes, co-founder of Forsa, worked closely with Caktus as the in-country project manager in the development of Libya’s SMS voter registration system. He managed UX analysis and training with community members, helping the team earn praise from the Carter Center for the system’s ease of use. Hunter Price, Forsa co-founder, has developed UX and management processes in a variety of complex development contexts across the Middle East, Africa, and Central Asia using community-centered design methodologies. 
+At Forsa, we’re passionate about doing things better.  We believe that services designed using inclusive processes and agile management can help organizations better and more meaningfully engage with their constituents, resulting in smarter and more effective services. We bring experience building and managing a number of national level civil engagement tools across the globe, as well as 
+designing and implementing services in some of the world’s most complex and fragile environments. We’re working with clients around the world to understand their challenges and design impactful solutions.
 
 ---
 
