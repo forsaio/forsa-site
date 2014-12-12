@@ -4,7 +4,7 @@ title: CONTACT
 permalink: /contact/
 cover_image: forsa_full_logo.jpg
 ---
-<br><br>
+<br> <br>
 <!-- <center><img src="/images/forsa_full_logo.jpg"></center> -->
 
 
