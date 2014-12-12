@@ -6,6 +6,8 @@ cover_image: IMG_7404.png
 
 
 
+
+
 ##STRATEGY
 
 *We help NGOs, Businesses, and Governments understand how to engage with their constituents by designing and delivering better services and technologies.*
@@ -15,8 +17,6 @@ We work with our clients to understand the community and constituents unique to 
 
 ---
 
-<!-- ![design](/images/notebook_bg_wide.jpg) -->
-<!-- <img src="/images/notebook_bg_wide.jpg"> -->
 
 ##DESIGN
 
@@ -27,8 +27,6 @@ We combine community-centered design and agile management processes to develop s
 ---  
 
 
-<!-- <center><img src="/images/elliott-hunter-hnec_tint.png"></center> -->
-
 
 ##IMPLEMENTATION
 
@@ -38,10 +36,6 @@ Our close involvement with organizations and communities ensures that implementa
 
 ---
 
-<!-- <figure>
-  <img src="/images/elliott-hunter-hnec_tint.png">
-</figure>
- -->
 
 
 ##LEARNING
